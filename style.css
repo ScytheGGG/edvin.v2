@@ -1,7 +1,7 @@
 * {
     background-color: red;
     color: white;
-    font-size: 17px;
+    font-size: 15px;
 }
 
 html, body {
@@ -16,8 +16,8 @@ html, body {
 .button {
     display: block;
     text-decoration: none;
-    font-weight: bold;
     margin: 10px 0; /* spacing between buttons */
+    font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 .button:hover {
@@ -28,6 +28,6 @@ html, body {
 }
 
 img {
-    width: 220px;
+    width: 215px;
     height: auto;
 }
