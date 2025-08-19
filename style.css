@@ -1,7 +1,7 @@
 * {
     background-color: red;
     color: white;
-    font-size: 15px;
+    font-size: 17px;
 }
 
 html, body {
@@ -27,6 +27,6 @@ html, body {
 }
 
 img {
-    width: 215px;
+    width: 220px;
     height: auto;
 }
